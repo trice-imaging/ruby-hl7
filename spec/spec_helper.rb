@@ -11,3 +11,4 @@ end
 require File.expand_path('../../lib/ruby-hl7', __FILE__)
 require File.expand_path('../../lib/test/hl7_messages', __FILE__)
 require 'pry'
+require 'timeout'
